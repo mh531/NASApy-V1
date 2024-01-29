@@ -30,7 +30,7 @@ def get_news():
     # Make the text widget read-only again
     text_widget.config(state='disabled')
 
-# Your NASA API key
+# You should change it to your Nasa API 
 api_key = 's5wbNzUTiboZEKfFqp0OPnZHhIjmQ08seWUMDABB'
 
 # NASA APOD API URL
